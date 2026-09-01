@@ -5,3 +5,5 @@
 | [PR 1](https://github.com/woowacourse-precourse/java-calculator-8/pull/429) | [글 보기](https://geniusjun4663.tistory.com/47) |
 | [PR 2](https://github.com/woowacourse-precourse/java-racingcar-8/pull/507)   | [글 보기](https://geniusjun4663.tistory.com/49) |
 | [PR 3](https://github.com/woowacourse-precourse/java-lotto-8/pull/236)           | [글 보기](https://geniusjun4663.tistory.com/52) |
+|    X    | [글 보기](https://geniusjun4663.tistory.com/54) |
+
